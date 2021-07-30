@@ -1,4 +1,3 @@
-import {switchCase} from '@babel/types';
 import React from 'react';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
